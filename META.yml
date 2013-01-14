@@ -15,11 +15,11 @@ name: Log-Stamper
 provides:
   Log::Stamper:
     file: lib/Log/Stamper.pm
-    version: 0.03
+    version: 0.031
 requires:
   Carp: 0
   perl: v5.8.1
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/bayashi/Log-Stamper
-version: 0.03
+version: 0.031

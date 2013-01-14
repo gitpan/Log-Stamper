@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use Carp qw/croak/;
 
-our $VERSION = '0.03';
+our $VERSION = '0.031';
 
 our $GMTIME = 0;
 
